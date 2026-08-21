@@ -1,5 +1,7 @@
 # plugin-policy
 
+**Live (graph):** [https://ali-plugin-policy.vercel.app](https://ali-plugin-policy.vercel.app)
+
 Policy-language adapter for the Decision OS / AuthGate stack.
 
 > Part of the Decision OS — governed by the Legitimacy ⊥ Authority pipeline
